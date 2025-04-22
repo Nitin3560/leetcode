@@ -1,6 +1,9 @@
 class Solution(object):
     def singleNumber(self, nums):
-        single = 0
-        for num in nums:
-            single ^= num  
-        return single
+        newlist = []
+        for i in nums:
+            if i not in newlist:
+                newlist.append(i)
+            else:
+                newlist.remove(i)
+        return newlist.pop()
