@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nitin3560/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Nitin3560/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Nitin3560/leetcode/tree/master/0015-3sum) |
 | [0046-permutations](https://github.com/Nitin3560/leetcode/tree/master/0046-permutations) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nitin3560/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Nitin3560/leetcode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nitin3560/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Nitin3560/leetcode/tree/master/0009-palindrome-number) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nitin3560/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
