@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Nitin3560/leetcode/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/Nitin3560/leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Nitin3560/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Nitin3560/leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Nitin3560/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nitin3560/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Nitin3560/leetcode/tree/master/0136-single-number) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nitin3560/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Nitin3560/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nitin3560/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Bit Manipulation
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nitin3560/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Nitin3560/leetcode/tree/master/0055-jump-game) |
 ## Backtracking
 |  |
 | ------- |
