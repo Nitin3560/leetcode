@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Nitin3560/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Nitin3560/leetcode/tree/master/0136-single-number) |
 ## Hash Table
 |  |
@@ -67,12 +68,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nitin3560/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nitin3560/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/Nitin3560/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Nitin3560/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Nitin3560/leetcode/tree/master/0344-reverse-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Nitin3560/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Nitin3560/leetcode/tree/master/0067-add-binary) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Nitin3560/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Two Pointers
 |  |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Nitin3560/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Nitin3560/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Nitin3560/leetcode/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/Nitin3560/leetcode/tree/master/0067-add-binary) |
 ## Binary Search
 |  |
 | ------- |
