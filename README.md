@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Nitin3560/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Nitin3560/leetcode/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/Nitin3560/leetcode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Nitin3560/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Nitin3560/leetcode/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Nitin3560/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Nitin3560/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Nitin3560/leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Nitin3560/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Nitin3560/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/Nitin3560/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Nitin3560/leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Nitin3560/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -164,4 +167,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Nitin3560/leetcode/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/Nitin3560/leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
