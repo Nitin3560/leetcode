@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Nitin3560/leetcode/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/Nitin3560/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Nitin3560/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Nitin3560/leetcode/tree/master/0316-remove-duplicate-letters) |
 ## Memoization
@@ -259,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Nitin3560/leetcode/tree/master/0324-wiggle-sort-ii) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Nitin3560/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
