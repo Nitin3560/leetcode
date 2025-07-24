@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0244-shortest-word-distance-ii](https://github.com/Nitin3560/leetcode/tree/master/0244-shortest-word-distance-ii) |
 | [0246-strobogrammatic-number](https://github.com/Nitin3560/leetcode/tree/master/0246-strobogrammatic-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Nitin3560/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0807-custom-sort-string](https://github.com/Nitin3560/leetcode/tree/master/0807-custom-sort-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0280-wiggle-sort](https://github.com/Nitin3560/leetcode/tree/master/0280-wiggle-sort) |
 | [0324-wiggle-sort-ii](https://github.com/Nitin3560/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Nitin3560/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0807-custom-sort-string](https://github.com/Nitin3560/leetcode/tree/master/0807-custom-sort-string) |
 ## Counting
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Nitin3560/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Nitin3560/leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Nitin3560/leetcode/tree/master/0415-add-strings) |
+| [0807-custom-sort-string](https://github.com/Nitin3560/leetcode/tree/master/0807-custom-sort-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Nitin3560/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Simulation
 |  |
