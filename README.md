@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Nitin3560/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Nitin3560/leetcode/tree/master/1168-duplicate-zeros) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nitin3560/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2551-apply-operations-to-an-array](https://github.com/Nitin3560/leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Nitin3560/leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Nitin3560/leetcode/tree/master/0415-add-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Nitin3560/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2551-apply-operations-to-an-array](https://github.com/Nitin3560/leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Nitin3560/leetcode/tree/master/0392-is-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nitin3560/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Nitin3560/leetcode/tree/master/1168-duplicate-zeros) |
+| [2551-apply-operations-to-an-array](https://github.com/Nitin3560/leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Greedy
 |  |
 | ------- |
