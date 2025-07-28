@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Nitin3560/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Nitin3560/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/Nitin3560/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0487-max-consecutive-ones-ii](https://github.com/Nitin3560/leetcode/tree/master/0487-max-consecutive-ones-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Nitin3560/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0941-sort-array-by-parity](https://github.com/Nitin3560/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/Nitin3560/leetcode/tree/master/0978-valid-mountain-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Nitin3560/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/Nitin3560/leetcode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Nitin3560/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0487-max-consecutive-ones-ii](https://github.com/Nitin3560/leetcode/tree/master/0487-max-consecutive-ones-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/Nitin3560/leetcode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Nitin3560/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nitin3560/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0487-max-consecutive-ones-ii](https://github.com/Nitin3560/leetcode/tree/master/0487-max-consecutive-ones-ii) |
 ## Math
 |  |
 | ------- |
