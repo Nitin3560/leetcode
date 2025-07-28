@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Nitin3560/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Nitin3560/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Nitin3560/leetcode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Nitin3560/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Nitin3560/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nitin3560/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Nitin3560/leetcode/tree/master/0088-merge-sorted-array) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Nitin3560/leetcode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Nitin3560/leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Nitin3560/leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Nitin3560/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Nitin3560/leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Nitin3560/leetcode/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Nitin3560/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
