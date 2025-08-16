@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Nitin3560/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0243-shortest-word-distance](https://github.com/Nitin3560/leetcode/tree/master/0243-shortest-word-distance) |
 | [0244-shortest-word-distance-ii](https://github.com/Nitin3560/leetcode/tree/master/0244-shortest-word-distance-ii) |
+| [0249-group-shifted-strings](https://github.com/Nitin3560/leetcode/tree/master/0249-group-shifted-strings) |
 | [0252-meeting-rooms](https://github.com/Nitin3560/leetcode/tree/master/0252-meeting-rooms) |
 | [0280-wiggle-sort](https://github.com/Nitin3560/leetcode/tree/master/0280-wiggle-sort) |
 | [0283-move-zeroes](https://github.com/Nitin3560/leetcode/tree/master/0283-move-zeroes) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nitin3560/leetcode/tree/master/0242-valid-anagram) |
 | [0244-shortest-word-distance-ii](https://github.com/Nitin3560/leetcode/tree/master/0244-shortest-word-distance-ii) |
 | [0246-strobogrammatic-number](https://github.com/Nitin3560/leetcode/tree/master/0246-strobogrammatic-number) |
+| [0249-group-shifted-strings](https://github.com/Nitin3560/leetcode/tree/master/0249-group-shifted-strings) |
 | [0359-logger-rate-limiter](https://github.com/Nitin3560/leetcode/tree/master/0359-logger-rate-limiter) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nitin3560/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Nitin3560/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0243-shortest-word-distance](https://github.com/Nitin3560/leetcode/tree/master/0243-shortest-word-distance) |
 | [0244-shortest-word-distance-ii](https://github.com/Nitin3560/leetcode/tree/master/0244-shortest-word-distance-ii) |
 | [0246-strobogrammatic-number](https://github.com/Nitin3560/leetcode/tree/master/0246-strobogrammatic-number) |
+| [0249-group-shifted-strings](https://github.com/Nitin3560/leetcode/tree/master/0249-group-shifted-strings) |
 | [0316-remove-duplicate-letters](https://github.com/Nitin3560/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Nitin3560/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Nitin3560/leetcode/tree/master/0392-is-subsequence) |
