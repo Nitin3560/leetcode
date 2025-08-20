@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0244-shortest-word-distance-ii](https://github.com/Nitin3560/leetcode/tree/master/0244-shortest-word-distance-ii) |
 | [0249-group-shifted-strings](https://github.com/Nitin3560/leetcode/tree/master/0249-group-shifted-strings) |
 | [0252-meeting-rooms](https://github.com/Nitin3560/leetcode/tree/master/0252-meeting-rooms) |
+| [0259-3sum-smaller](https://github.com/Nitin3560/leetcode/tree/master/0259-3sum-smaller) |
 | [0260-single-number-iii](https://github.com/Nitin3560/leetcode/tree/master/0260-single-number-iii) |
 | [0280-wiggle-sort](https://github.com/Nitin3560/leetcode/tree/master/0280-wiggle-sort) |
 | [0283-move-zeroes](https://github.com/Nitin3560/leetcode/tree/master/0283-move-zeroes) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Nitin3560/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nitin3560/leetcode/tree/master/0242-valid-anagram) |
 | [0252-meeting-rooms](https://github.com/Nitin3560/leetcode/tree/master/0252-meeting-rooms) |
+| [0259-3sum-smaller](https://github.com/Nitin3560/leetcode/tree/master/0259-3sum-smaller) |
 | [0280-wiggle-sort](https://github.com/Nitin3560/leetcode/tree/master/0280-wiggle-sort) |
 | [0324-wiggle-sort-ii](https://github.com/Nitin3560/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0389-find-the-difference](https://github.com/Nitin3560/leetcode/tree/master/0389-find-the-difference) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Nitin3560/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0244-shortest-word-distance-ii](https://github.com/Nitin3560/leetcode/tree/master/0244-shortest-word-distance-ii) |
 | [0246-strobogrammatic-number](https://github.com/Nitin3560/leetcode/tree/master/0246-strobogrammatic-number) |
+| [0259-3sum-smaller](https://github.com/Nitin3560/leetcode/tree/master/0259-3sum-smaller) |
 | [0283-move-zeroes](https://github.com/Nitin3560/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Nitin3560/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nitin3560/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nitin3560/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Nitin3560/leetcode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nitin3560/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0259-3sum-smaller](https://github.com/Nitin3560/leetcode/tree/master/0259-3sum-smaller) |
 | [0456-132-pattern](https://github.com/Nitin3560/leetcode/tree/master/0456-132-pattern) |
 ## Matrix
 |  |
