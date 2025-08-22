@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Nitin3560/leetcode/tree/master/0498-diagonal-traverse) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Nitin3560/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Nitin3560/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/Nitin3560/leetcode/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/Nitin3560/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Nitin3560/leetcode/tree/master/0739-daily-temperatures) |
 | [0941-sort-array-by-parity](https://github.com/Nitin3560/leetcode/tree/master/0941-sort-array-by-parity) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Nitin3560/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Nitin3560/leetcode/tree/master/0455-assign-cookies) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Nitin3560/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0561-array-partition](https://github.com/Nitin3560/leetcode/tree/master/0561-array-partition) |
 | [0807-custom-sort-string](https://github.com/Nitin3560/leetcode/tree/master/0807-custom-sort-string) |
 | [0941-sort-array-by-parity](https://github.com/Nitin3560/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nitin3560/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Nitin3560/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Nitin3560/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Nitin3560/leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Nitin3560/leetcode/tree/master/0561-array-partition) |
 ## Backtracking
 |  |
 | ------- |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Nitin3560/leetcode/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/Nitin3560/leetcode/tree/master/1137-height-checker) |
 ## Bucket Sort
 |  |
