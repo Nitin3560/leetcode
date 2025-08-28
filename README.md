@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Nitin3560/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Nitin3560/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nitin3560/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1618-delete-n-nodes-after-m-nodes-of-a-linked-list](https://github.com/Nitin3560/leetcode/tree/master/1618-delete-n-nodes-after-m-nodes-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
