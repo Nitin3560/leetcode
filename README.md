@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nitin3560/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/Nitin3560/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/Nitin3560/leetcode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
+| [3615-convert-doubly-linked-list-to-array-ii](https://github.com/Nitin3560/leetcode/tree/master/3615-convert-doubly-linked-list-to-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1618-delete-n-nodes-after-m-nodes-of-a-linked-list](https://github.com/Nitin3560/leetcode/tree/master/1618-delete-n-nodes-after-m-nodes-of-a-linked-list) |
 | [3359-linked-list-frequency](https://github.com/Nitin3560/leetcode/tree/master/3359-linked-list-frequency) |
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/Nitin3560/leetcode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
+| [3615-convert-doubly-linked-list-to-array-ii](https://github.com/Nitin3560/leetcode/tree/master/3615-convert-doubly-linked-list-to-array-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -478,4 +480,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/Nitin3560/leetcode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
+| [3615-convert-doubly-linked-list-to-array-ii](https://github.com/Nitin3560/leetcode/tree/master/3615-convert-doubly-linked-list-to-array-ii) |
 <!---LeetCode Topics End-->
