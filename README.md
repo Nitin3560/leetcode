@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/Nitin3560/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nitin3560/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/Nitin3560/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nitin3560/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/Nitin3560/leetcode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
 | [3615-convert-doubly-linked-list-to-array-ii](https://github.com/Nitin3560/leetcode/tree/master/3615-convert-doubly-linked-list-to-array-ii) |
 ## Dynamic Programming
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Nitin3560/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0807-custom-sort-string](https://github.com/Nitin3560/leetcode/tree/master/0807-custom-sort-string) |
 | [3359-linked-list-frequency](https://github.com/Nitin3560/leetcode/tree/master/3359-linked-list-frequency) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nitin3560/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nitin3560/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1618-delete-n-nodes-after-m-nodes-of-a-linked-list](https://github.com/Nitin3560/leetcode/tree/master/1618-delete-n-nodes-after-m-nodes-of-a-linked-list) |
 | [3359-linked-list-frequency](https://github.com/Nitin3560/leetcode/tree/master/3359-linked-list-frequency) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nitin3560/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/Nitin3560/leetcode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
 | [3615-convert-doubly-linked-list-to-array-ii](https://github.com/Nitin3560/leetcode/tree/master/3615-convert-doubly-linked-list-to-array-ii) |
 ## Recursion
