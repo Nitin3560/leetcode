@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Nitin3560/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Nitin3560/leetcode/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Nitin3560/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0263-ugly-number](https://github.com/Nitin3560/leetcode/tree/master/0263-ugly-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Nitin3560/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0369-plus-one-linked-list](https://github.com/Nitin3560/leetcode/tree/master/0369-plus-one-linked-list) |
 | [0415-add-strings](https://github.com/Nitin3560/leetcode/tree/master/0415-add-strings) |
