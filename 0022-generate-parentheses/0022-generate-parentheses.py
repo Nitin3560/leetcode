@@ -1,16 +1,17 @@
-class Solution(object):
-    def generateParenthesis(self, n):
+class Solution:
+    def generateParenthesis(self, n: int) -> List[str]:
         res = []
-
-        def bt(s, o, c):
-            if len(s) == 2 * n:
-                res.append(s)
+        def dfs(cur: list[str], open_used: int, close_used: int):
+            if open_used == n and close_used == n:
+                res.append("".join(cur))
                 return
-            if o < n:
-                bt(s + '(', o + 1, c)
-            if c < o:
-                bt(s + ')', o, c + 1)
-
-        bt('', 0, 0)
+            if open_used < n:
+                cur.append("(")
+                dfs(cur, open_used + 1, close_used)
+                cur.pop()
+            if close_used < open_used:
+                cur.append(")")
+                dfs(cur, open_used, close_used + 1)
+                cur.pop()
+        dfs([], 0, 0)
         return res
-        
