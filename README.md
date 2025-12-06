@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Nitin3560/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0807-custom-sort-string](https://github.com/Nitin3560/leetcode/tree/master/0807-custom-sort-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Nitin3560/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [3330-find-the-original-typed-string-i](https://github.com/Nitin3560/leetcode/tree/master/3330-find-the-original-typed-string-i) |
 ## Simulation
 |  |
 | ------- |
