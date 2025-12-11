@@ -1,21 +1,11 @@
-class Solution(object):
-    def lengthOfLongestSubstring(self,s):
-        x = len(s)
-        max_len = 0
-        for i in range(x):
-            cur_len = 1
-            for j in range(i + 1, x):
-                duplicate = False
-                for k in range(i, j):
-                    if s[k] == s[j]:
-                        duplicate = True
-                        break
-                if duplicate:
-                    break
-                cur_len += 1
-            max_len = max(max_len, cur_len)
-        return max_len
-
-
-
-        
+class Solution:
+    def lengthOfLongestSubstring(self, s: str) -> int:
+        seen = {}
+        left = 0
+        best = 0
+        for right, ch in enumerate(s):
+            if ch in seen and seen[ch] >= left:
+                left = seen[ch] + 1
+            seen[ch] = right
+            best = max(best, right - left + 1)
+        return best
