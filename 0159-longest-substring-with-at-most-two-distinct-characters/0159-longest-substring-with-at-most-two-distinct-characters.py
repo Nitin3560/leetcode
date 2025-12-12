@@ -1,17 +1,19 @@
-class Solution(object):
-    def lengthOfLongestSubstringTwoDistinct(self, s):
+class Solution:
+    def lengthOfLongestSubstringTwoDistinct(self, s: str) -> int:
         left = 0
-        max_len = 0
-        char_map = defaultdict(int)
+        freq = {}
+        best = 0
 
-        for right in range(len(s)):
-            char_map[s[right]] += 1
-            while len(char_map) > 2:
-                char_map[s[left]] -= 1
-                if char_map[s[left]] == 0:
-                    del char_map[s[left]]
+        for right, ch in enumerate(s):
+            freq[ch] = freq.get(ch, 0) + 1
+
+            while len(freq) > 2:
+                left_ch = s[left]
+                freq[left_ch] -= 1
+                if freq[left_ch] == 0:
+                    del freq[left_ch]
                 left += 1
 
-            max_len = max(max_len, right - left + 1)
+            best = max(best, right - left + 1)
 
-        return max_len
+        return best
