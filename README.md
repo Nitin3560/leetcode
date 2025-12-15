@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Nitin3560/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/Nitin3560/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/Nitin3560/leetcode/tree/master/0978-valid-mountain-array) |
+| [0978-longest-turbulent-subarray](https://github.com/Nitin3560/leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nitin3560/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1052-grumpy-bookstore-owner](https://github.com/Nitin3560/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1137-height-checker](https://github.com/Nitin3560/leetcode/tree/master/1137-height-checker) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Nitin3560/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0487-max-consecutive-ones-ii](https://github.com/Nitin3560/leetcode/tree/master/0487-max-consecutive-ones-ii) |
 | [0837-new-21-game](https://github.com/Nitin3560/leetcode/tree/master/0837-new-21-game) |
+| [0978-longest-turbulent-subarray](https://github.com/Nitin3560/leetcode/tree/master/0978-longest-turbulent-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Nitin3560/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0837-new-21-game](https://github.com/Nitin3560/leetcode/tree/master/0837-new-21-game) |
 | [0904-fruit-into-baskets](https://github.com/Nitin3560/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0978-longest-turbulent-subarray](https://github.com/Nitin3560/leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [1052-grumpy-bookstore-owner](https://github.com/Nitin3560/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1176-diet-plan-performance](https://github.com/Nitin3560/leetcode/tree/master/1176-diet-plan-performance) |
 | [1652-defuse-the-bomb](https://github.com/Nitin3560/leetcode/tree/master/1652-defuse-the-bomb) |
