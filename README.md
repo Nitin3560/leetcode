@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Nitin3560/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0260-single-number-iii](https://github.com/Nitin3560/leetcode/tree/master/0260-single-number-iii) |
 | [0389-find-the-difference](https://github.com/Nitin3560/leetcode/tree/master/0389-find-the-difference) |
+| [1763-longest-nice-substring](https://github.com/Nitin3560/leetcode/tree/master/1763-longest-nice-substring) |
 ## Hash Table
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Nitin3560/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0807-custom-sort-string](https://github.com/Nitin3560/leetcode/tree/master/0807-custom-sort-string) |
 | [0904-fruit-into-baskets](https://github.com/Nitin3560/leetcode/tree/master/0904-fruit-into-baskets) |
+| [1763-longest-nice-substring](https://github.com/Nitin3560/leetcode/tree/master/1763-longest-nice-substring) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nitin3560/leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3359-linked-list-frequency](https://github.com/Nitin3560/leetcode/tree/master/3359-linked-list-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nitin3560/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Nitin3560/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Nitin3560/leetcode/tree/master/0169-majority-element) |
 | [0324-wiggle-sort-ii](https://github.com/Nitin3560/leetcode/tree/master/0324-wiggle-sort-ii) |
+| [1763-longest-nice-substring](https://github.com/Nitin3560/leetcode/tree/master/1763-longest-nice-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Nitin3560/leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Nitin3560/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0807-custom-sort-string](https://github.com/Nitin3560/leetcode/tree/master/0807-custom-sort-string) |
+| [1763-longest-nice-substring](https://github.com/Nitin3560/leetcode/tree/master/1763-longest-nice-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Nitin3560/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nitin3560/leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3330-find-the-original-typed-string-i](https://github.com/Nitin3560/leetcode/tree/master/3330-find-the-original-typed-string-i) |
@@ -414,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/Nitin3560/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1176-diet-plan-performance](https://github.com/Nitin3560/leetcode/tree/master/1176-diet-plan-performance) |
 | [1652-defuse-the-bomb](https://github.com/Nitin3560/leetcode/tree/master/1652-defuse-the-bomb) |
+| [1763-longest-nice-substring](https://github.com/Nitin3560/leetcode/tree/master/1763-longest-nice-substring) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nitin3560/leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nitin3560/leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nitin3560/leetcode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
