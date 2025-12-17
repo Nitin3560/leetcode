@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Nitin3560/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Nitin3560/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0487-max-consecutive-ones-ii](https://github.com/Nitin3560/leetcode/tree/master/0487-max-consecutive-ones-ii) |
+| [0647-palindromic-substrings](https://github.com/Nitin3560/leetcode/tree/master/0647-palindromic-substrings) |
 | [0837-new-21-game](https://github.com/Nitin3560/leetcode/tree/master/0837-new-21-game) |
 | [0978-longest-turbulent-subarray](https://github.com/Nitin3560/leetcode/tree/master/0978-longest-turbulent-subarray) |
 ## Bit Manipulation
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nitin3560/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Nitin3560/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0567-permutation-in-string](https://github.com/Nitin3560/leetcode/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/Nitin3560/leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Nitin3560/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Nitin3560/leetcode/tree/master/0696-count-binary-substrings) |
 | [0807-custom-sort-string](https://github.com/Nitin3560/leetcode/tree/master/0807-custom-sort-string) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Nitin3560/leetcode/tree/master/0455-assign-cookies) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Nitin3560/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0567-permutation-in-string](https://github.com/Nitin3560/leetcode/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/Nitin3560/leetcode/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/Nitin3560/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Nitin3560/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Nitin3560/leetcode/tree/master/0696-count-binary-substrings) |
