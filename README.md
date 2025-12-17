@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nitin3560/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Nitin3560/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nitin3560/leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Nitin3560/leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3330-find-the-original-typed-string-i](https://github.com/Nitin3560/leetcode/tree/master/3330-find-the-original-typed-string-i) |
 ## Simulation
 |  |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Nitin3560/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Nitin3560/leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Nitin3560/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Nitin3560/leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Greedy
 |  |
 | ------- |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Nitin3560/leetcode/tree/master/0456-132-pattern) |
 | [0658-find-k-closest-elements](https://github.com/Nitin3560/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Nitin3560/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Nitin3560/leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Matrix
 |  |
 | ------- |
@@ -498,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nitin3560/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Nitin3560/leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -530,10 +534,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Nitin3560/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Nitin3560/leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Nitin3560/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Nitin3560/leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Union Find
 |  |
 | ------- |
