@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Nitin3560/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Nitin3560/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Nitin3560/leetcode/tree/master/0739-daily-temperatures) |
+| [0826-most-profit-assigning-work](https://github.com/Nitin3560/leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0904-fruit-into-baskets](https://github.com/Nitin3560/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Nitin3560/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0941-sort-array-by-parity](https://github.com/Nitin3560/leetcode/tree/master/0941-sort-array-by-parity) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Nitin3560/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Nitin3560/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0807-custom-sort-string](https://github.com/Nitin3560/leetcode/tree/master/0807-custom-sort-string) |
+| [0826-most-profit-assigning-work](https://github.com/Nitin3560/leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0941-sort-array-by-parity](https://github.com/Nitin3560/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nitin3560/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Nitin3560/leetcode/tree/master/1137-height-checker) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Nitin3560/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Nitin3560/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Nitin3560/leetcode/tree/master/0696-count-binary-substrings) |
+| [0826-most-profit-assigning-work](https://github.com/Nitin3560/leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0908-middle-of-the-linked-list](https://github.com/Nitin3560/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Nitin3560/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nitin3560/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Nitin3560/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Nitin3560/leetcode/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/Nitin3560/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0826-most-profit-assigning-work](https://github.com/Nitin3560/leetcode/tree/master/0826-most-profit-assigning-work) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nitin3560/leetcode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 ## Backtracking
 |  |
@@ -499,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Nitin3560/leetcode/tree/master/0456-132-pattern) |
 | [0658-find-k-closest-elements](https://github.com/Nitin3560/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Nitin3560/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0826-most-profit-assigning-work](https://github.com/Nitin3560/leetcode/tree/master/0826-most-profit-assigning-work) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Nitin3560/leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Matrix
 |  |
