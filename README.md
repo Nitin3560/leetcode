@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Nitin3560/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Nitin3560/leetcode/tree/master/0696-count-binary-substrings) |
 | [0807-custom-sort-string](https://github.com/Nitin3560/leetcode/tree/master/0807-custom-sort-string) |
+| [0844-backspace-string-compare](https://github.com/Nitin3560/leetcode/tree/master/0844-backspace-string-compare) |
 | [1763-longest-nice-substring](https://github.com/Nitin3560/leetcode/tree/master/1763-longest-nice-substring) |
 | [1768-merge-strings-alternately](https://github.com/Nitin3560/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nitin3560/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Nitin3560/leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Nitin3560/leetcode/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/Nitin3560/leetcode/tree/master/0498-diagonal-traverse) |
+| [0844-backspace-string-compare](https://github.com/Nitin3560/leetcode/tree/master/0844-backspace-string-compare) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Nitin3560/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2551-apply-operations-to-an-array](https://github.com/Nitin3560/leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Two Pointers
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Nitin3560/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Nitin3560/leetcode/tree/master/0696-count-binary-substrings) |
 | [0826-most-profit-assigning-work](https://github.com/Nitin3560/leetcode/tree/master/0826-most-profit-assigning-work) |
+| [0844-backspace-string-compare](https://github.com/Nitin3560/leetcode/tree/master/0844-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Nitin3560/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Nitin3560/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nitin3560/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Nitin3560/leetcode/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/Nitin3560/leetcode/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/Nitin3560/leetcode/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/Nitin3560/leetcode/tree/master/0844-backspace-string-compare) |
 ## Memoization
 |  |
 | ------- |
