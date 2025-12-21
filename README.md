@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Nitin3560/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Nitin3560/leetcode/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/Nitin3560/leetcode/tree/master/0763-partition-labels) |
+| [0800-similar-rgb-color](https://github.com/Nitin3560/leetcode/tree/master/0800-similar-rgb-color) |
 | [0807-custom-sort-string](https://github.com/Nitin3560/leetcode/tree/master/0807-custom-sort-string) |
 | [0809-expressive-words](https://github.com/Nitin3560/leetcode/tree/master/0809-expressive-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/Nitin3560/leetcode/tree/master/0821-shortest-distance-to-a-character) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Nitin3560/leetcode/tree/master/0415-add-strings) |
 | [0556-next-greater-element-iii](https://github.com/Nitin3560/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/Nitin3560/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0800-similar-rgb-color](https://github.com/Nitin3560/leetcode/tree/master/0800-similar-rgb-color) |
 | [0837-new-21-game](https://github.com/Nitin3560/leetcode/tree/master/0837-new-21-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nitin3560/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nitin3560/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -672,4 +674,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Nitin3560/leetcode/tree/master/0912-sort-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [0800-similar-rgb-color](https://github.com/Nitin3560/leetcode/tree/master/0800-similar-rgb-color) |
 <!---LeetCode Topics End-->
