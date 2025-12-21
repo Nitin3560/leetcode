@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1229-meeting-scheduler](https://github.com/Nitin3560/leetcode/tree/master/1229-meeting-scheduler) |
 | [1306-minimum-absolute-difference](https://github.com/Nitin3560/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nitin3560/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1534-count-good-triplets](https://github.com/Nitin3560/leetcode/tree/master/1534-count-good-triplets) |
 | [1652-defuse-the-bomb](https://github.com/Nitin3560/leetcode/tree/master/1652-defuse-the-bomb) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Nitin3560/leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Nitin3560/leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -678,4 +679,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0800-similar-rgb-color](https://github.com/Nitin3560/leetcode/tree/master/0800-similar-rgb-color) |
+| [1534-count-good-triplets](https://github.com/Nitin3560/leetcode/tree/master/1534-count-good-triplets) |
 <!---LeetCode Topics End-->
