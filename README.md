@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Nitin3560/leetcode/tree/master/0498-diagonal-traverse) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Nitin3560/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0528-random-pick-with-weight](https://github.com/Nitin3560/leetcode/tree/master/0528-random-pick-with-weight) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Nitin3560/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Nitin3560/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Nitin3560/leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nitin3560/leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Nitin3560/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/Nitin3560/leetcode/tree/master/0456-132-pattern) |
 | [0528-random-pick-with-weight](https://github.com/Nitin3560/leetcode/tree/master/0528-random-pick-with-weight) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Nitin3560/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Nitin3560/leetcode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/Nitin3560/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Nitin3560/leetcode/tree/master/0658-find-k-closest-elements) |
