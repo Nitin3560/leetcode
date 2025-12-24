@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Nitin3560/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1052-grumpy-bookstore-owner](https://github.com/Nitin3560/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1137-height-checker](https://github.com/Nitin3560/leetcode/tree/master/1137-height-checker) |
+| [1152-analyze-user-website-visit-pattern](https://github.com/Nitin3560/leetcode/tree/master/1152-analyze-user-website-visit-pattern) |
 | [1168-duplicate-zeros](https://github.com/Nitin3560/leetcode/tree/master/1168-duplicate-zeros) |
 | [1176-diet-plan-performance](https://github.com/Nitin3560/leetcode/tree/master/1176-diet-plan-performance) |
 | [1229-meeting-scheduler](https://github.com/Nitin3560/leetcode/tree/master/1229-meeting-scheduler) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/Nitin3560/leetcode/tree/master/0807-custom-sort-string) |
 | [0904-fruit-into-baskets](https://github.com/Nitin3560/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Nitin3560/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1152-analyze-user-website-visit-pattern](https://github.com/Nitin3560/leetcode/tree/master/1152-analyze-user-website-visit-pattern) |
 | [1488-avoid-flood-in-the-city](https://github.com/Nitin3560/leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1763-longest-nice-substring](https://github.com/Nitin3560/leetcode/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nitin3560/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Nitin3560/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nitin3560/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Nitin3560/leetcode/tree/master/1137-height-checker) |
+| [1152-analyze-user-website-visit-pattern](https://github.com/Nitin3560/leetcode/tree/master/1152-analyze-user-website-visit-pattern) |
 | [1229-meeting-scheduler](https://github.com/Nitin3560/leetcode/tree/master/1229-meeting-scheduler) |
 | [1306-minimum-absolute-difference](https://github.com/Nitin3560/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Nitin3560/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/Nitin3560/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/Nitin3560/leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/Nitin3560/leetcode/tree/master/0917-reverse-only-letters) |
+| [1152-analyze-user-website-visit-pattern](https://github.com/Nitin3560/leetcode/tree/master/1152-analyze-user-website-visit-pattern) |
 | [1763-longest-nice-substring](https://github.com/Nitin3560/leetcode/tree/master/1763-longest-nice-substring) |
 | [1768-merge-strings-alternately](https://github.com/Nitin3560/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nitin3560/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
