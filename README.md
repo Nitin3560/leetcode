@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Nitin3560/leetcode/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/Nitin3560/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Nitin3560/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/Nitin3560/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Nitin3560/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0413-arithmetic-slices](https://github.com/Nitin3560/leetcode/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/Nitin3560/leetcode/tree/master/0414-third-maximum-number) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0249-group-shifted-strings](https://github.com/Nitin3560/leetcode/tree/master/0249-group-shifted-strings) |
 | [0290-word-pattern](https://github.com/Nitin3560/leetcode/tree/master/0290-word-pattern) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/Nitin3560/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
+| [0347-top-k-frequent-elements](https://github.com/Nitin3560/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Nitin3560/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0359-logger-rate-limiter](https://github.com/Nitin3560/leetcode/tree/master/0359-logger-rate-limiter) |
 | [0389-find-the-difference](https://github.com/Nitin3560/leetcode/tree/master/0389-find-the-difference) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Nitin3560/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Nitin3560/leetcode/tree/master/0169-majority-element) |
 | [0324-wiggle-sort-ii](https://github.com/Nitin3560/leetcode/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Nitin3560/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Nitin3560/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0912-sort-an-array](https://github.com/Nitin3560/leetcode/tree/master/0912-sort-an-array) |
 | [1763-longest-nice-substring](https://github.com/Nitin3560/leetcode/tree/master/1763-longest-nice-substring) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0259-3sum-smaller](https://github.com/Nitin3560/leetcode/tree/master/0259-3sum-smaller) |
 | [0280-wiggle-sort](https://github.com/Nitin3560/leetcode/tree/master/0280-wiggle-sort) |
 | [0324-wiggle-sort-ii](https://github.com/Nitin3560/leetcode/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Nitin3560/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Nitin3560/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Nitin3560/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Nitin3560/leetcode/tree/master/0414-third-maximum-number) |
@@ -260,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Nitin3560/leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Nitin3560/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nitin3560/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0869-reordered-power-of-2](https://github.com/Nitin3560/leetcode/tree/master/0869-reordered-power-of-2) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nitin3560/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -653,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Nitin3560/leetcode/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Nitin3560/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Design
 |  |
 | ------- |
@@ -669,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Nitin3560/leetcode/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/Nitin3560/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Nitin3560/leetcode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -697,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Nitin3560/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0253-meeting-rooms-ii](https://github.com/Nitin3560/leetcode/tree/master/0253-meeting-rooms-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Nitin3560/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/Nitin3560/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Nitin3560/leetcode/tree/master/0912-sort-an-array) |
 | [1488-avoid-flood-in-the-city](https://github.com/Nitin3560/leetcode/tree/master/1488-avoid-flood-in-the-city) |
