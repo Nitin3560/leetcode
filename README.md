@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nitin3560/leetcode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nitin3560/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/Nitin3560/leetcode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
+| [3607-power-grid-maintenance](https://github.com/Nitin3560/leetcode/tree/master/3607-power-grid-maintenance) |
 | [3615-convert-doubly-linked-list-to-array-ii](https://github.com/Nitin3560/leetcode/tree/master/3615-convert-doubly-linked-list-to-array-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Nitin3560/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Dynamic Programming
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3359-linked-list-frequency](https://github.com/Nitin3560/leetcode/tree/master/3359-linked-list-frequency) |
 | [3408-design-task-manager](https://github.com/Nitin3560/leetcode/tree/master/3408-design-task-manager) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nitin3560/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3607-power-grid-maintenance](https://github.com/Nitin3560/leetcode/tree/master/3607-power-grid-maintenance) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Nitin3560/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [3607-power-grid-maintenance](https://github.com/Nitin3560/leetcode/tree/master/3607-power-grid-maintenance) |
 ## Trie
 |  |
 | ------- |
@@ -695,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0456-132-pattern](https://github.com/Nitin3560/leetcode/tree/master/0456-132-pattern) |
 | [3408-design-task-manager](https://github.com/Nitin3560/leetcode/tree/master/3408-design-task-manager) |
+| [3607-power-grid-maintenance](https://github.com/Nitin3560/leetcode/tree/master/3607-power-grid-maintenance) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -716,10 +720,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1792-maximum-average-pass-ratio](https://github.com/Nitin3560/leetcode/tree/master/1792-maximum-average-pass-ratio) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nitin3560/leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3408-design-task-manager](https://github.com/Nitin3560/leetcode/tree/master/3408-design-task-manager) |
+| [3607-power-grid-maintenance](https://github.com/Nitin3560/leetcode/tree/master/3607-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
 | [0277-find-the-celebrity](https://github.com/Nitin3560/leetcode/tree/master/0277-find-the-celebrity) |
+| [3607-power-grid-maintenance](https://github.com/Nitin3560/leetcode/tree/master/3607-power-grid-maintenance) |
 ## Interactive
 |  |
 | ------- |
@@ -741,4 +747,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/Nitin3560/leetcode/tree/master/0528-random-pick-with-weight) |
+## Depth-First Search
+|  |
+| ------- |
+| [3607-power-grid-maintenance](https://github.com/Nitin3560/leetcode/tree/master/3607-power-grid-maintenance) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3607-power-grid-maintenance](https://github.com/Nitin3560/leetcode/tree/master/3607-power-grid-maintenance) |
 <!---LeetCode Topics End-->
