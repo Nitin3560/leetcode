@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/Nitin3560/leetcode/tree/master/1168-duplicate-zeros) |
 | [1176-diet-plan-performance](https://github.com/Nitin3560/leetcode/tree/master/1176-diet-plan-performance) |
 | [1229-meeting-scheduler](https://github.com/Nitin3560/leetcode/tree/master/1229-meeting-scheduler) |
+| [1268-search-suggestions-system](https://github.com/Nitin3560/leetcode/tree/master/1268-search-suggestions-system) |
 | [1306-minimum-absolute-difference](https://github.com/Nitin3560/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nitin3560/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1488-avoid-flood-in-the-city](https://github.com/Nitin3560/leetcode/tree/master/1488-avoid-flood-in-the-city) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/Nitin3560/leetcode/tree/master/1137-height-checker) |
 | [1152-analyze-user-website-visit-pattern](https://github.com/Nitin3560/leetcode/tree/master/1152-analyze-user-website-visit-pattern) |
 | [1229-meeting-scheduler](https://github.com/Nitin3560/leetcode/tree/master/1229-meeting-scheduler) |
+| [1268-search-suggestions-system](https://github.com/Nitin3560/leetcode/tree/master/1268-search-suggestions-system) |
 | [1306-minimum-absolute-difference](https://github.com/Nitin3560/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Nitin3560/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Counting
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Nitin3560/leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/Nitin3560/leetcode/tree/master/0917-reverse-only-letters) |
 | [1152-analyze-user-website-visit-pattern](https://github.com/Nitin3560/leetcode/tree/master/1152-analyze-user-website-visit-pattern) |
+| [1268-search-suggestions-system](https://github.com/Nitin3560/leetcode/tree/master/1268-search-suggestions-system) |
 | [1763-longest-nice-substring](https://github.com/Nitin3560/leetcode/tree/master/1763-longest-nice-substring) |
 | [1768-merge-strings-alternately](https://github.com/Nitin3560/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nitin3560/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -594,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Nitin3560/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0826-most-profit-assigning-work](https://github.com/Nitin3560/leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0875-koko-eating-bananas](https://github.com/Nitin3560/leetcode/tree/master/0875-koko-eating-bananas) |
+| [1268-search-suggestions-system](https://github.com/Nitin3560/leetcode/tree/master/1268-search-suggestions-system) |
 | [1488-avoid-flood-in-the-city](https://github.com/Nitin3560/leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Nitin3560/leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Matrix
@@ -657,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Nitin3560/leetcode/tree/master/0139-word-break) |
+| [1268-search-suggestions-system](https://github.com/Nitin3560/leetcode/tree/master/1268-search-suggestions-system) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -721,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Nitin3560/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/Nitin3560/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Nitin3560/leetcode/tree/master/0912-sort-an-array) |
+| [1268-search-suggestions-system](https://github.com/Nitin3560/leetcode/tree/master/1268-search-suggestions-system) |
 | [1488-avoid-flood-in-the-city](https://github.com/Nitin3560/leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1792-maximum-average-pass-ratio](https://github.com/Nitin3560/leetcode/tree/master/1792-maximum-average-pass-ratio) |
 | [2353-design-a-food-rating-system](https://github.com/Nitin3560/leetcode/tree/master/2353-design-a-food-rating-system) |
