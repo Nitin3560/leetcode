@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/Nitin3560/leetcode/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nitin3560/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1995-count-special-quadruplets](https://github.com/Nitin3560/leetcode/tree/master/1995-count-special-quadruplets) |
+| [2034-stock-price-fluctuation](https://github.com/Nitin3560/leetcode/tree/master/2034-stock-price-fluctuation) |
 | [2353-design-a-food-rating-system](https://github.com/Nitin3560/leetcode/tree/master/2353-design-a-food-rating-system) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nitin3560/leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3359-linked-list-frequency](https://github.com/Nitin3560/leetcode/tree/master/3359-linked-list-frequency) |
@@ -683,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Nitin3560/leetcode/tree/master/0155-min-stack) |
 | [0244-shortest-word-distance-ii](https://github.com/Nitin3560/leetcode/tree/master/0244-shortest-word-distance-ii) |
 | [0359-logger-rate-limiter](https://github.com/Nitin3560/leetcode/tree/master/0359-logger-rate-limiter) |
+| [2034-stock-price-fluctuation](https://github.com/Nitin3560/leetcode/tree/master/2034-stock-price-fluctuation) |
 | [2353-design-a-food-rating-system](https://github.com/Nitin3560/leetcode/tree/master/2353-design-a-food-rating-system) |
 | [3408-design-task-manager](https://github.com/Nitin3560/leetcode/tree/master/3408-design-task-manager) |
 ## Counting Sort
@@ -706,11 +708,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0359-logger-rate-limiter](https://github.com/Nitin3560/leetcode/tree/master/0359-logger-rate-limiter) |
+| [2034-stock-price-fluctuation](https://github.com/Nitin3560/leetcode/tree/master/2034-stock-price-fluctuation) |
 ## Ordered Set
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Nitin3560/leetcode/tree/master/0456-132-pattern) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Nitin3560/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2034-stock-price-fluctuation](https://github.com/Nitin3560/leetcode/tree/master/2034-stock-price-fluctuation) |
 | [2353-design-a-food-rating-system](https://github.com/Nitin3560/leetcode/tree/master/2353-design-a-food-rating-system) |
 | [3408-design-task-manager](https://github.com/Nitin3560/leetcode/tree/master/3408-design-task-manager) |
 | [3607-power-grid-maintenance](https://github.com/Nitin3560/leetcode/tree/master/3607-power-grid-maintenance) |
@@ -736,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1488-avoid-flood-in-the-city](https://github.com/Nitin3560/leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1642-furthest-building-you-can-reach](https://github.com/Nitin3560/leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1792-maximum-average-pass-ratio](https://github.com/Nitin3560/leetcode/tree/master/1792-maximum-average-pass-ratio) |
+| [2034-stock-price-fluctuation](https://github.com/Nitin3560/leetcode/tree/master/2034-stock-price-fluctuation) |
 | [2353-design-a-food-rating-system](https://github.com/Nitin3560/leetcode/tree/master/2353-design-a-food-rating-system) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nitin3560/leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3408-design-task-manager](https://github.com/Nitin3560/leetcode/tree/master/3408-design-task-manager) |
