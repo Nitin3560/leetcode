@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Nitin3560/leetcode/tree/master/0162-find-peak-element) |
 | [0163-missing-ranges](https://github.com/Nitin3560/leetcode/tree/master/0163-missing-ranges) |
 | [0164-maximum-gap](https://github.com/Nitin3560/leetcode/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nitin3560/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Nitin3560/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Nitin3560/leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Nitin3560/leetcode/tree/master/0189-rotate-array) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Nitin3560/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0161-one-edit-distance](https://github.com/Nitin3560/leetcode/tree/master/0161-one-edit-distance) |
 | [0165-compare-version-numbers](https://github.com/Nitin3560/leetcode/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nitin3560/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Nitin3560/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Nitin3560/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Nitin3560/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nitin3560/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Nitin3560/leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Nitin3560/leetcode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nitin3560/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nitin3560/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0259-3sum-smaller](https://github.com/Nitin3560/leetcode/tree/master/0259-3sum-smaller) |
 | [0349-intersection-of-two-arrays](https://github.com/Nitin3560/leetcode/tree/master/0349-intersection-of-two-arrays) |
