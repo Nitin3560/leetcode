@@ -2,7 +2,6 @@ class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
         candidates.sort()            
         ans, path = [], []
-
         def dfs(start: int, remain: int) -> None:
             if remain == 0:
                 ans.append(path.copy())
