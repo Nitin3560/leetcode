@@ -600,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nitin3560/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nitin3560/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0259-3sum-smaller](https://github.com/Nitin3560/leetcode/tree/master/0259-3sum-smaller) |
+| [0278-first-bad-version](https://github.com/Nitin3560/leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Nitin3560/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0362-design-hit-counter](https://github.com/Nitin3560/leetcode/tree/master/0362-design-hit-counter) |
 | [0456-132-pattern](https://github.com/Nitin3560/leetcode/tree/master/0456-132-pattern) |
@@ -766,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0277-find-the-celebrity](https://github.com/Nitin3560/leetcode/tree/master/0277-find-the-celebrity) |
+| [0278-first-bad-version](https://github.com/Nitin3560/leetcode/tree/master/0278-first-bad-version) |
 ## Merge Sort
 |  |
 | ------- |
