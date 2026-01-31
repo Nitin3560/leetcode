@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Nitin3560/leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Nitin3560/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Nitin3560/leetcode/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/Nitin3560/leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Nitin3560/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Nitin3560/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Nitin3560/leetcode/tree/master/0053-maximum-subarray) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Nitin3560/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nitin3560/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Nitin3560/leetcode/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Nitin3560/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Nitin3560/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Nitin3560/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Nitin3560/leetcode/tree/master/0139-word-break) |
