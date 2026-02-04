@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Nitin3560/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Nitin3560/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Nitin3560/leetcode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Nitin3560/leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Nitin3560/leetcode/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nitin3560/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nitin3560/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Nitin3560/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Nitin3560/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Nitin3560/leetcode/tree/master/0067-add-binary) |
+| [0091-decode-ways](https://github.com/Nitin3560/leetcode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Nitin3560/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Nitin3560/leetcode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Nitin3560/leetcode/tree/master/0125-valid-palindrome) |
