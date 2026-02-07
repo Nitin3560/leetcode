@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Nitin3560/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Nitin3560/leetcode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Nitin3560/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Nitin3560/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Nitin3560/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Nitin3560/leetcode/tree/master/0137-single-number-ii) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Nitin3560/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Nitin3560/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Nitin3560/leetcode/tree/master/0046-permutations) |
+| [0089-gray-code](https://github.com/Nitin3560/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Nitin3560/leetcode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Nitin3560/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Nitin3560/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Nitin3560/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Nitin3560/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Nitin3560/leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Nitin3560/leetcode/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nitin3560/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Nitin3560/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Nitin3560/leetcode/tree/master/0189-rotate-array) |
