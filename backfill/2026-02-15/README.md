@@ -1,6 +1,2 @@
-LeetCode practice log — 2026-02-15
-
-Problems:
-- (put problem name/number here)
-Notes:
-- (optional) approach/pattern used
+Practice 2026-02-15 0238_product_of_array_except_self
+Timestamp 2026-02-15T14:20:00-06:00
