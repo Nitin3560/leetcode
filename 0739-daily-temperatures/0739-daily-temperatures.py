@@ -9,7 +9,4 @@ class Solution:
                 ans[j] = i - j
             stack.append(i)
         
-        return ans
-
-            
-            
+        return ans   
