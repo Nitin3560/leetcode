@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Nitin3560/leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Nitin3560/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Nitin3560/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Nitin3560/leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nitin3560/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Nitin3560/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Nitin3560/leetcode/tree/master/0090-subsets-ii) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Nitin3560/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Nitin3560/leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Nitin3560/leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Nitin3560/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Nitin3560/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Nitin3560/leetcode/tree/master/0136-single-number) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Nitin3560/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Nitin3560/leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Nitin3560/leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Nitin3560/leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Nitin3560/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Nitin3560/leetcode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Nitin3560/leetcode/tree/master/0093-restore-ip-addresses) |
