@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2353-design-a-food-rating-system](https://github.com/Nitin3560/leetcode/tree/master/2353-design-a-food-rating-system) |
 | [2551-apply-operations-to-an-array](https://github.com/Nitin3560/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nitin3560/leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/Nitin3560/leetcode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nitin3560/leetcode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nitin3560/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/Nitin3560/leetcode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/Nitin3560/leetcode/tree/master/1268-search-suggestions-system) |
 | [1488-avoid-flood-in-the-city](https://github.com/Nitin3560/leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Nitin3560/leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+| [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/Nitin3560/leetcode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 ## Matrix
 |  |
 | ------- |
