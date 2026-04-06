@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/Nitin3560/leetcode/tree/master/1534-count-good-triplets) |
 | [1642-furthest-building-you-can-reach](https://github.com/Nitin3560/leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1652-defuse-the-bomb](https://github.com/Nitin3560/leetcode/tree/master/1652-defuse-the-bomb) |
+| [1762-buildings-with-an-ocean-view](https://github.com/Nitin3560/leetcode/tree/master/1762-buildings-with-an-ocean-view) |
 | [1792-maximum-average-pass-ratio](https://github.com/Nitin3560/leetcode/tree/master/1792-maximum-average-pass-ratio) |
 | [1995-count-special-quadruplets](https://github.com/Nitin3560/leetcode/tree/master/1995-count-special-quadruplets) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Nitin3560/leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
@@ -675,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Nitin3560/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Nitin3560/leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Nitin3560/leetcode/tree/master/0844-backspace-string-compare) |
+| [1762-buildings-with-an-ocean-view](https://github.com/Nitin3560/leetcode/tree/master/1762-buildings-with-an-ocean-view) |
 ## Memoization
 |  |
 | ------- |
@@ -720,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Nitin3560/leetcode/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Nitin3560/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Nitin3560/leetcode/tree/master/0739-daily-temperatures) |
+| [1762-buildings-with-an-ocean-view](https://github.com/Nitin3560/leetcode/tree/master/1762-buildings-with-an-ocean-view) |
 ## Quickselect
 |  |
 | ------- |
