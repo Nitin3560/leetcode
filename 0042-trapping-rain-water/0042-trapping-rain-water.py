@@ -7,15 +7,16 @@ class Solution:
         ans=0
         while l<r:
             if height[l]<height[r]:
-                if height[l]>=lm:
-                    lm=height[l]
+                if height[l]>lm:
+                    lm = height[l]
                 else:
-                    ans+=lm-height[l]
+                    ans+=lm - height[l]
                 l+=1
             else:
-                if height[r]>=rm:
+                if height[r]>rm:
                     rm=height[r]
                 else:
                     ans+=rm-height[r]
                 r-=1
         return ans
+
