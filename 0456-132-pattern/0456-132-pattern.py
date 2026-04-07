@@ -1,12 +1,11 @@
 class Solution:
     def find132pattern(self, nums: List[int]) -> bool:
-        ak = float('-inf')
-        stack = []
-
+        num =float('-inf')
+        stack =[]
         for x in reversed(nums):
-            if x < ak:
+            if x <num:
                 return True
             while stack and stack[-1] < x:
-                ak = stack.pop()
+                num =stack.pop()
             stack.append(x)
         return False
