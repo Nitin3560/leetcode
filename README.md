@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/Nitin3560/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0259-3sum-smaller](https://github.com/Nitin3560/leetcode/tree/master/0259-3sum-smaller) |
 | [0260-single-number-iii](https://github.com/Nitin3560/leetcode/tree/master/0260-single-number-iii) |
+| [0274-h-index](https://github.com/Nitin3560/leetcode/tree/master/0274-h-index) |
 | [0280-wiggle-sort](https://github.com/Nitin3560/leetcode/tree/master/0280-wiggle-sort) |
 | [0283-move-zeroes](https://github.com/Nitin3560/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Nitin3560/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0252-meeting-rooms](https://github.com/Nitin3560/leetcode/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/Nitin3560/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0259-3sum-smaller](https://github.com/Nitin3560/leetcode/tree/master/0259-3sum-smaller) |
+| [0274-h-index](https://github.com/Nitin3560/leetcode/tree/master/0274-h-index) |
 | [0280-wiggle-sort](https://github.com/Nitin3560/leetcode/tree/master/0280-wiggle-sort) |
 | [0324-wiggle-sort-ii](https://github.com/Nitin3560/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Nitin3560/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -746,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Nitin3560/leetcode/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/Nitin3560/leetcode/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Nitin3560/leetcode/tree/master/0912-sort-an-array) |
 | [1137-height-checker](https://github.com/Nitin3560/leetcode/tree/master/1137-height-checker) |
