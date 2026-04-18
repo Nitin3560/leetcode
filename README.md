@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Nitin3560/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Nitin3560/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Nitin3560/leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Nitin3560/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Nitin3560/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Nitin3560/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Nitin3560/leetcode/tree/master/0055-jump-game) |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Nitin3560/leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Nitin3560/leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Nitin3560/leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Nitin3560/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Nitin3560/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Nitin3560/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Nitin3560/leetcode/tree/master/0066-plus-one) |
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Nitin3560/leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Nitin3560/leetcode/tree/master/0048-rotate-image) |
 | [0498-diagonal-traverse](https://github.com/Nitin3560/leetcode/tree/master/0498-diagonal-traverse) |
 | [0832-flipping-an-image](https://github.com/Nitin3560/leetcode/tree/master/0832-flipping-an-image) |
 ## String Matching
