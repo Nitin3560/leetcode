@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Nitin3560/leetcode/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Nitin3560/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0260-single-number-iii](https://github.com/Nitin3560/leetcode/tree/master/0260-single-number-iii) |
+| [0266-palindrome-permutation](https://github.com/Nitin3560/leetcode/tree/master/0266-palindrome-permutation) |
 | [0287-find-the-duplicate-number](https://github.com/Nitin3560/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Nitin3560/leetcode/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/Nitin3560/leetcode/tree/master/0832-flipping-an-image) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0244-shortest-word-distance-ii](https://github.com/Nitin3560/leetcode/tree/master/0244-shortest-word-distance-ii) |
 | [0246-strobogrammatic-number](https://github.com/Nitin3560/leetcode/tree/master/0246-strobogrammatic-number) |
 | [0249-group-shifted-strings](https://github.com/Nitin3560/leetcode/tree/master/0249-group-shifted-strings) |
+| [0266-palindrome-permutation](https://github.com/Nitin3560/leetcode/tree/master/0266-palindrome-permutation) |
 | [0290-word-pattern](https://github.com/Nitin3560/leetcode/tree/master/0290-word-pattern) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/Nitin3560/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0347-top-k-frequent-elements](https://github.com/Nitin3560/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0247-strobogrammatic-number-ii](https://github.com/Nitin3560/leetcode/tree/master/0247-strobogrammatic-number-ii) |
 | [0248-strobogrammatic-number-iii](https://github.com/Nitin3560/leetcode/tree/master/0248-strobogrammatic-number-iii) |
 | [0249-group-shifted-strings](https://github.com/Nitin3560/leetcode/tree/master/0249-group-shifted-strings) |
+| [0266-palindrome-permutation](https://github.com/Nitin3560/leetcode/tree/master/0266-palindrome-permutation) |
 | [0290-word-pattern](https://github.com/Nitin3560/leetcode/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Nitin3560/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/Nitin3560/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
