@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Nitin3560/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Nitin3560/leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Nitin3560/leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Nitin3560/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Nitin3560/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Nitin3560/leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nitin3560/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Nitin3560/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Nitin3560/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Nitin3560/leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Nitin3560/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nitin3560/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Nitin3560/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Nitin3560/leetcode/tree/master/0139-word-break) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Nitin3560/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Nitin3560/leetcode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Nitin3560/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Nitin3560/leetcode/tree/master/0498-diagonal-traverse) |
 | [0832-flipping-an-image](https://github.com/Nitin3560/leetcode/tree/master/0832-flipping-an-image) |
 ## String Matching
