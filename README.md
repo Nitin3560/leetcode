@@ -871,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Nitin3560/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nitin3560/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nitin3560/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0285-inorder-successor-in-bst](https://github.com/Nitin3560/leetcode/tree/master/0285-inorder-successor-in-bst) |
 | [3607-power-grid-maintenance](https://github.com/Nitin3560/leetcode/tree/master/3607-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -906,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Nitin3560/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nitin3560/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nitin3560/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0285-inorder-successor-in-bst](https://github.com/Nitin3560/leetcode/tree/master/0285-inorder-successor-in-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nitin3560/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -923,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Nitin3560/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nitin3560/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nitin3560/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0285-inorder-successor-in-bst](https://github.com/Nitin3560/leetcode/tree/master/0285-inorder-successor-in-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nitin3560/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -933,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Nitin3560/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nitin3560/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nitin3560/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0285-inorder-successor-in-bst](https://github.com/Nitin3560/leetcode/tree/master/0285-inorder-successor-in-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nitin3560/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Combinatorics
 |  |
