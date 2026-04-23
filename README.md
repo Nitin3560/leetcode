@@ -686,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nitin3560/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/Nitin3560/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/Nitin3560/leetcode/tree/master/0796-rotate-string) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Nitin3560/leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Stack
@@ -733,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Nitin3560/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0572-subtree-of-another-tree](https://github.com/Nitin3560/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Nitin3560/leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Union Find
 |  |
@@ -874,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nitin3560/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nitin3560/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0285-inorder-successor-in-bst](https://github.com/Nitin3560/leetcode/tree/master/0285-inorder-successor-in-bst) |
+| [0572-subtree-of-another-tree](https://github.com/Nitin3560/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [3607-power-grid-maintenance](https://github.com/Nitin3560/leetcode/tree/master/3607-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -913,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nitin3560/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0285-inorder-successor-in-bst](https://github.com/Nitin3560/leetcode/tree/master/0285-inorder-successor-in-bst) |
 | [0510-inorder-successor-in-bst-ii](https://github.com/Nitin3560/leetcode/tree/master/0510-inorder-successor-in-bst-ii) |
+| [0572-subtree-of-another-tree](https://github.com/Nitin3560/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nitin3560/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -933,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nitin3560/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0285-inorder-successor-in-bst](https://github.com/Nitin3560/leetcode/tree/master/0285-inorder-successor-in-bst) |
 | [0510-inorder-successor-in-bst-ii](https://github.com/Nitin3560/leetcode/tree/master/0510-inorder-successor-in-bst-ii) |
+| [0572-subtree-of-another-tree](https://github.com/Nitin3560/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nitin3560/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
