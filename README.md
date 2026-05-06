@@ -897,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nitin3560/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nitin3560/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nitin3560/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0261-graph-valid-tree](https://github.com/Nitin3560/leetcode/tree/master/0261-graph-valid-tree) |
 | [0285-inorder-successor-in-bst](https://github.com/Nitin3560/leetcode/tree/master/0285-inorder-successor-in-bst) |
 | [0437-path-sum-iii](https://github.com/Nitin3560/leetcode/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/Nitin3560/leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -916,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Nitin3560/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Nitin3560/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Nitin3560/leetcode/tree/master/0207-course-schedule) |
+| [0261-graph-valid-tree](https://github.com/Nitin3560/leetcode/tree/master/0261-graph-valid-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nitin3560/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3607-power-grid-maintenance](https://github.com/Nitin3560/leetcode/tree/master/3607-power-grid-maintenance) |
 ## Queue
@@ -1023,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Nitin3560/leetcode/tree/master/0207-course-schedule) |
+| [0261-graph-valid-tree](https://github.com/Nitin3560/leetcode/tree/master/0261-graph-valid-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nitin3560/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
@@ -1031,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0261-graph-valid-tree](https://github.com/Nitin3560/leetcode/tree/master/0261-graph-valid-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nitin3560/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Iterator
 |  |
