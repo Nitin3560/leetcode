@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/Nitin3560/leetcode/tree/master/1168-duplicate-zeros) |
 | [1176-diet-plan-performance](https://github.com/Nitin3560/leetcode/tree/master/1176-diet-plan-performance) |
 | [1229-meeting-scheduler](https://github.com/Nitin3560/leetcode/tree/master/1229-meeting-scheduler) |
+| [1254-number-of-closed-islands](https://github.com/Nitin3560/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1268-search-suggestions-system](https://github.com/Nitin3560/leetcode/tree/master/1268-search-suggestions-system) |
 | [1306-minimum-absolute-difference](https://github.com/Nitin3560/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nitin3560/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Nitin3560/leetcode/tree/master/0130-surrounded-regions) |
 | [0498-diagonal-traverse](https://github.com/Nitin3560/leetcode/tree/master/0498-diagonal-traverse) |
 | [0832-flipping-an-image](https://github.com/Nitin3560/leetcode/tree/master/0832-flipping-an-image) |
+| [1254-number-of-closed-islands](https://github.com/Nitin3560/leetcode/tree/master/1254-number-of-closed-islands) |
 ## String Matching
 |  |
 | ------- |
@@ -910,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/Nitin3560/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Nitin3560/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Nitin3560/leetcode/tree/master/0617-merge-two-binary-trees) |
+| [1254-number-of-closed-islands](https://github.com/Nitin3560/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Nitin3560/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nitin3560/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3607-power-grid-maintenance](https://github.com/Nitin3560/leetcode/tree/master/3607-power-grid-maintenance) |
@@ -932,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0261-graph-valid-tree](https://github.com/Nitin3560/leetcode/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Nitin3560/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0617-merge-two-binary-trees](https://github.com/Nitin3560/leetcode/tree/master/0617-merge-two-binary-trees) |
+| [1254-number-of-closed-islands](https://github.com/Nitin3560/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nitin3560/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3607-power-grid-maintenance](https://github.com/Nitin3560/leetcode/tree/master/3607-power-grid-maintenance) |
 ## Queue
@@ -1063,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Nitin3560/leetcode/tree/master/0130-surrounded-regions) |
 | [0261-graph-valid-tree](https://github.com/Nitin3560/leetcode/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Nitin3560/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [1254-number-of-closed-islands](https://github.com/Nitin3560/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nitin3560/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Iterator
 |  |
