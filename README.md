@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Nitin3560/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0528-random-pick-with-weight](https://github.com/Nitin3560/leetcode/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nitin3560/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/Nitin3560/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Nitin3560/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Nitin3560/leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nitin3560/leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Nitin3560/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Nitin3560/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0487-max-consecutive-ones-ii](https://github.com/Nitin3560/leetcode/tree/master/0487-max-consecutive-ones-ii) |
+| [0542-01-matrix](https://github.com/Nitin3560/leetcode/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/Nitin3560/leetcode/tree/master/0647-palindromic-substrings) |
 | [0837-new-21-game](https://github.com/Nitin3560/leetcode/tree/master/0837-new-21-game) |
 | [0978-longest-turbulent-subarray](https://github.com/Nitin3560/leetcode/tree/master/0978-longest-turbulent-subarray) |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Nitin3560/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Nitin3560/leetcode/tree/master/0130-surrounded-regions) |
 | [0498-diagonal-traverse](https://github.com/Nitin3560/leetcode/tree/master/0498-diagonal-traverse) |
+| [0542-01-matrix](https://github.com/Nitin3560/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Nitin3560/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Nitin3560/leetcode/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/Nitin3560/leetcode/tree/master/0832-flipping-an-image) |
@@ -942,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Nitin3560/leetcode/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/Nitin3560/leetcode/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Nitin3560/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0542-01-matrix](https://github.com/Nitin3560/leetcode/tree/master/0542-01-matrix) |
 | [0617-merge-two-binary-trees](https://github.com/Nitin3560/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/Nitin3560/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Nitin3560/leetcode/tree/master/0733-flood-fill) |
