@@ -924,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Nitin3560/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/Nitin3560/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Nitin3560/leetcode/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Nitin3560/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Nitin3560/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Nitin3560/leetcode/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/Nitin3560/leetcode/tree/master/0886-possible-bipartition) |
@@ -953,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Nitin3560/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/Nitin3560/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Nitin3560/leetcode/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Nitin3560/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Nitin3560/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Nitin3560/leetcode/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/Nitin3560/leetcode/tree/master/0886-possible-bipartition) |
@@ -1077,6 +1079,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Nitin3560/leetcode/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/Nitin3560/leetcode/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Nitin3560/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0785-is-graph-bipartite](https://github.com/Nitin3560/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Nitin3560/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Nitin3560/leetcode/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/Nitin3560/leetcode/tree/master/0886-possible-bipartition) |
@@ -1094,6 +1097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0261-graph-valid-tree](https://github.com/Nitin3560/leetcode/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Nitin3560/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0695-max-area-of-island](https://github.com/Nitin3560/leetcode/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/Nitin3560/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Nitin3560/leetcode/tree/master/0886-possible-bipartition) |
 | [1254-number-of-closed-islands](https://github.com/Nitin3560/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nitin3560/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
