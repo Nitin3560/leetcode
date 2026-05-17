@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-longest-turbulent-subarray](https://github.com/Nitin3560/leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [1162-as-far-from-land-as-possible](https://github.com/Nitin3560/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Nitin3560/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/Nitin3560/leetcode/tree/master/1896-minimum-cost-to-change-the-final-value-of-expression) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/Nitin3560/leetcode/tree/master/1763-longest-nice-substring) |
 | [1768-merge-strings-alternately](https://github.com/Nitin3560/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nitin3560/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/Nitin3560/leetcode/tree/master/1896-minimum-cost-to-change-the-final-value-of-expression) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Nitin3560/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2353-design-a-food-rating-system](https://github.com/Nitin3560/leetcode/tree/master/2353-design-a-food-rating-system) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nitin3560/leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/Nitin3560/leetcode/tree/master/0869-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nitin3560/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nitin3560/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/Nitin3560/leetcode/tree/master/1896-minimum-cost-to-change-the-final-value-of-expression) |
 | [1925-count-square-sum-triples](https://github.com/Nitin3560/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2235-add-two-integers](https://github.com/Nitin3560/leetcode/tree/master/2235-add-two-integers) |
 ## Binary Search
@@ -747,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Nitin3560/leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Nitin3560/leetcode/tree/master/0844-backspace-string-compare) |
 | [1762-buildings-with-an-ocean-view](https://github.com/Nitin3560/leetcode/tree/master/1762-buildings-with-an-ocean-view) |
+| [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/Nitin3560/leetcode/tree/master/1896-minimum-cost-to-change-the-final-value-of-expression) |
 ## Memoization
 |  |
 | ------- |
