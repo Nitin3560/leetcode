@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Nitin3560/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Nitin3560/leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Nitin3560/leetcode/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/Nitin3560/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0809-expressive-words](https://github.com/Nitin3560/leetcode/tree/master/0809-expressive-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/Nitin3560/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0826-most-profit-assigning-work](https://github.com/Nitin3560/leetcode/tree/master/0826-most-profit-assigning-work) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Nitin3560/leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Nitin3560/leetcode/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/Nitin3560/leetcode/tree/master/0647-palindromic-substrings) |
+| [0746-min-cost-climbing-stairs](https://github.com/Nitin3560/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nitin3560/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0837-new-21-game](https://github.com/Nitin3560/leetcode/tree/master/0837-new-21-game) |
 | [0978-longest-turbulent-subarray](https://github.com/Nitin3560/leetcode/tree/master/0978-longest-turbulent-subarray) |
