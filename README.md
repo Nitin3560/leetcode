@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Nitin3560/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1052-grumpy-bookstore-owner](https://github.com/Nitin3560/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1064-fixed-point](https://github.com/Nitin3560/leetcode/tree/master/1064-fixed-point) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Nitin3560/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1137-height-checker](https://github.com/Nitin3560/leetcode/tree/master/1137-height-checker) |
 | [1152-analyze-user-website-visit-pattern](https://github.com/Nitin3560/leetcode/tree/master/1152-analyze-user-website-visit-pattern) |
 | [1162-as-far-from-land-as-possible](https://github.com/Nitin3560/leetcode/tree/master/1162-as-far-from-land-as-possible) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nitin3560/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0837-new-21-game](https://github.com/Nitin3560/leetcode/tree/master/0837-new-21-game) |
 | [0978-longest-turbulent-subarray](https://github.com/Nitin3560/leetcode/tree/master/0978-longest-turbulent-subarray) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Nitin3560/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1162-as-far-from-land-as-possible](https://github.com/Nitin3560/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Nitin3560/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/Nitin3560/leetcode/tree/master/1896-minimum-cost-to-change-the-final-value-of-expression) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Nitin3560/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/Nitin3560/leetcode/tree/master/0763-partition-labels) |
 | [0826-most-profit-assigning-work](https://github.com/Nitin3560/leetcode/tree/master/0826-most-profit-assigning-work) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Nitin3560/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1488-avoid-flood-in-the-city](https://github.com/Nitin3560/leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1642-furthest-building-you-can-reach](https://github.com/Nitin3560/leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1792-maximum-average-pass-ratio](https://github.com/Nitin3560/leetcode/tree/master/1792-maximum-average-pass-ratio) |
@@ -764,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Nitin3560/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Nitin3560/leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Nitin3560/leetcode/tree/master/0844-backspace-string-compare) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Nitin3560/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1762-buildings-with-an-ocean-view](https://github.com/Nitin3560/leetcode/tree/master/1762-buildings-with-an-ocean-view) |
 | [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/Nitin3560/leetcode/tree/master/1896-minimum-cost-to-change-the-final-value-of-expression) |
 ## Memoization
@@ -812,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Nitin3560/leetcode/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Nitin3560/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Nitin3560/leetcode/tree/master/0739-daily-temperatures) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Nitin3560/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1762-buildings-with-an-ocean-view](https://github.com/Nitin3560/leetcode/tree/master/1762-buildings-with-an-ocean-view) |
 ## Quickselect
 |  |
