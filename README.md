@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/Nitin3560/leetcode/tree/master/0978-valid-mountain-array) |
 | [0978-longest-turbulent-subarray](https://github.com/Nitin3560/leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nitin3560/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/Nitin3560/leetcode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1052-grumpy-bookstore-owner](https://github.com/Nitin3560/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1064-fixed-point](https://github.com/Nitin3560/leetcode/tree/master/1064-fixed-point) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Nitin3560/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nitin3560/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0837-new-21-game](https://github.com/Nitin3560/leetcode/tree/master/0837-new-21-game) |
 | [0978-longest-turbulent-subarray](https://github.com/Nitin3560/leetcode/tree/master/0978-longest-turbulent-subarray) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/Nitin3560/leetcode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Nitin3560/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1162-as-far-from-land-as-possible](https://github.com/Nitin3560/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Nitin3560/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
