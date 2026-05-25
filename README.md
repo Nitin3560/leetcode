@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Nitin3560/leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Nitin3560/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Nitin3560/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Nitin3560/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/Nitin3560/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Nitin3560/leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Nitin3560/leetcode/tree/master/0739-daily-temperatures) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Nitin3560/leetcode/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/Nitin3560/leetcode/tree/master/0647-palindromic-substrings) |
 | [0688-knight-probability-in-chessboard](https://github.com/Nitin3560/leetcode/tree/master/0688-knight-probability-in-chessboard) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Nitin3560/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/Nitin3560/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nitin3560/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0837-new-21-game](https://github.com/Nitin3560/leetcode/tree/master/0837-new-21-game) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Nitin3560/leetcode/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Nitin3560/leetcode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Nitin3560/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Nitin3560/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/Nitin3560/leetcode/tree/master/0763-partition-labels) |
 | [0826-most-profit-assigning-work](https://github.com/Nitin3560/leetcode/tree/master/0826-most-profit-assigning-work) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Nitin3560/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
