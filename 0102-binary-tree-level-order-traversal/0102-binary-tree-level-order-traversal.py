@@ -22,14 +22,20 @@ class Solution:
         #             q.append(node.right)
         #     res.append(level)
         # return res
+        
         def bfs(node, depth):
             if not node:
-                return
-            if depth==len(res):
+                return 
+            
+            if depth == len(res):
                 res.append([])
+
             res[depth].append(node.val)
-            bfs(node.left, depth+1)
-            bfs(node.right, depth+1)
-        res=[]
+            
+            bfs(node.left, depth + 1)
+            bfs(node.right, depth + 1)
+
+        res = []
         bfs(root, 0)
+
         return res
