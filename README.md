@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1792-maximum-average-pass-ratio](https://github.com/Nitin3560/leetcode/tree/master/1792-maximum-average-pass-ratio) |
 | [1995-count-special-quadruplets](https://github.com/Nitin3560/leetcode/tree/master/1995-count-special-quadruplets) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Nitin3560/leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2326-spiral-matrix-iv](https://github.com/Nitin3560/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2353-design-a-food-rating-system](https://github.com/Nitin3560/leetcode/tree/master/2353-design-a-food-rating-system) |
 | [2551-apply-operations-to-an-array](https://github.com/Nitin3560/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nitin3560/leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Nitin3560/leetcode/tree/master/0844-backspace-string-compare) |
 | [0885-spiral-matrix-iii](https://github.com/Nitin3560/leetcode/tree/master/0885-spiral-matrix-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Nitin3560/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2326-spiral-matrix-iv](https://github.com/Nitin3560/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2551-apply-operations-to-an-array](https://github.com/Nitin3560/leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nitin3560/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1618-delete-n-nodes-after-m-nodes-of-a-linked-list](https://github.com/Nitin3560/leetcode/tree/master/1618-delete-n-nodes-after-m-nodes-of-a-linked-list) |
 | [1836-remove-duplicates-from-an-unsorted-linked-list](https://github.com/Nitin3560/leetcode/tree/master/1836-remove-duplicates-from-an-unsorted-linked-list) |
+| [2326-spiral-matrix-iv](https://github.com/Nitin3560/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [3359-linked-list-frequency](https://github.com/Nitin3560/leetcode/tree/master/3359-linked-list-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nitin3560/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/Nitin3560/leetcode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
@@ -769,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0885-spiral-matrix-iii](https://github.com/Nitin3560/leetcode/tree/master/0885-spiral-matrix-iii) |
 | [1162-as-far-from-land-as-possible](https://github.com/Nitin3560/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/Nitin3560/leetcode/tree/master/1254-number-of-closed-islands) |
+| [2326-spiral-matrix-iv](https://github.com/Nitin3560/leetcode/tree/master/2326-spiral-matrix-iv) |
 ## String Matching
 |  |
 | ------- |
