@@ -470,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Nitin3560/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2353-design-a-food-rating-system](https://github.com/Nitin3560/leetcode/tree/master/2353-design-a-food-rating-system) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nitin3560/leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2390-removing-stars-from-a-string](https://github.com/Nitin3560/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2938-separate-black-and-white-balls](https://github.com/Nitin3560/leetcode/tree/master/2938-separate-black-and-white-balls) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Nitin3560/leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3330-find-the-original-typed-string-i](https://github.com/Nitin3560/leetcode/tree/master/3330-find-the-original-typed-string-i) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Nitin3560/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2326-spiral-matrix-iv](https://github.com/Nitin3560/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2352-equal-row-and-column-pairs](https://github.com/Nitin3560/leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [2390-removing-stars-from-a-string](https://github.com/Nitin3560/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Nitin3560/leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
@@ -826,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Nitin3560/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1762-buildings-with-an-ocean-view](https://github.com/Nitin3560/leetcode/tree/master/1762-buildings-with-an-ocean-view) |
 | [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/Nitin3560/leetcode/tree/master/1896-minimum-cost-to-change-the-final-value-of-expression) |
+| [2390-removing-stars-from-a-string](https://github.com/Nitin3560/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Memoization
 |  |
 | ------- |
