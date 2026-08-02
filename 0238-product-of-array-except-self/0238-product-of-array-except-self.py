@@ -1,16 +1,21 @@
-class Solution(object):
-    def productExceptSelf(self,nums):
+class Solution:
+    def productExceptSelf(self, nums: List[int]) -> List[int]:
         n = len(nums)
-        answer = [1] * n
+        leftside = {}
+        rightside = {}
 
-        left_product = 1
-        for i in range(n):
-            answer[i] = left_product
-            left_product *= nums[i]
+        leftsum = 1
+        for j in range(n):
+            leftside[j] = leftsum 
+            leftsum *= nums[j]
 
-        right_product = 1
+        rightsum = 1
         for i in range(n - 1, -1, -1):
-            answer[i] *= right_product
-            right_product *= nums[i]
+            rightside[i] = rightsum  
+            rightsum *= nums[i]
 
-        return answer
+        return [leftside[i] * rightside[i] for i in range(n)]
+        
+
+
+
