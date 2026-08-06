@@ -1142,6 +1142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nitin3560/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0285-inorder-successor-in-bst](https://github.com/Nitin3560/leetcode/tree/master/0285-inorder-successor-in-bst) |
 | [0437-path-sum-iii](https://github.com/Nitin3560/leetcode/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/Nitin3560/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0510-inorder-successor-in-bst-ii](https://github.com/Nitin3560/leetcode/tree/master/0510-inorder-successor-in-bst-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/Nitin3560/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Nitin3560/leetcode/tree/master/0563-binary-tree-tilt) |
@@ -1186,6 +1187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nitin3560/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0285-inorder-successor-in-bst](https://github.com/Nitin3560/leetcode/tree/master/0285-inorder-successor-in-bst) |
 | [0437-path-sum-iii](https://github.com/Nitin3560/leetcode/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/Nitin3560/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0510-inorder-successor-in-bst-ii](https://github.com/Nitin3560/leetcode/tree/master/0510-inorder-successor-in-bst-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/Nitin3560/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Nitin3560/leetcode/tree/master/0563-binary-tree-tilt) |
@@ -1209,6 +1211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nitin3560/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nitin3560/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0285-inorder-successor-in-bst](https://github.com/Nitin3560/leetcode/tree/master/0285-inorder-successor-in-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/Nitin3560/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0510-inorder-successor-in-bst-ii](https://github.com/Nitin3560/leetcode/tree/master/0510-inorder-successor-in-bst-ii) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nitin3560/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nitin3560/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
