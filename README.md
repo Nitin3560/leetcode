@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Nitin3560/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0362-design-hit-counter](https://github.com/Nitin3560/leetcode/tree/master/0362-design-hit-counter) |
 | [0377-combination-sum-iv](https://github.com/Nitin3560/leetcode/tree/master/0377-combination-sum-iv) |
+| [0399-evaluate-division](https://github.com/Nitin3560/leetcode/tree/master/0399-evaluate-division) |
 | [0413-arithmetic-slices](https://github.com/Nitin3560/leetcode/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/Nitin3560/leetcode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Nitin3560/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Nitin3560/leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Nitin3560/leetcode/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Nitin3560/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0399-evaluate-division](https://github.com/Nitin3560/leetcode/tree/master/0399-evaluate-division) |
 | [0408-valid-word-abbreviation](https://github.com/Nitin3560/leetcode/tree/master/0408-valid-word-abbreviation) |
 | [0415-add-strings](https://github.com/Nitin3560/leetcode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nitin3560/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -1047,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0261-graph-valid-tree](https://github.com/Nitin3560/leetcode/tree/master/0261-graph-valid-tree) |
 | [0285-inorder-successor-in-bst](https://github.com/Nitin3560/leetcode/tree/master/0285-inorder-successor-in-bst) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Nitin3560/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0399-evaluate-division](https://github.com/Nitin3560/leetcode/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/Nitin3560/leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Nitin3560/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Nitin3560/leetcode/tree/master/0547-number-of-provinces) |
@@ -1088,6 +1091,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0261-graph-valid-tree](https://github.com/Nitin3560/leetcode/tree/master/0261-graph-valid-tree) |
 | [0322-coin-change](https://github.com/Nitin3560/leetcode/tree/master/0322-coin-change) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Nitin3560/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0399-evaluate-division](https://github.com/Nitin3560/leetcode/tree/master/0399-evaluate-division) |
 | [0542-01-matrix](https://github.com/Nitin3560/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Nitin3560/leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Nitin3560/leetcode/tree/master/0617-merge-two-binary-trees) |
@@ -1239,6 +1243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Nitin3560/leetcode/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/Nitin3560/leetcode/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Nitin3560/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0399-evaluate-division](https://github.com/Nitin3560/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Nitin3560/leetcode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Nitin3560/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Nitin3560/leetcode/tree/master/0785-is-graph-bipartite) |
@@ -1261,6 +1266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Nitin3560/leetcode/tree/master/0130-surrounded-regions) |
 | [0261-graph-valid-tree](https://github.com/Nitin3560/leetcode/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Nitin3560/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0399-evaluate-division](https://github.com/Nitin3560/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Nitin3560/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Nitin3560/leetcode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Nitin3560/leetcode/tree/master/0785-is-graph-bipartite) |
@@ -1274,7 +1280,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Nitin3560/leetcode/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/Nitin3560/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nitin3560/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Nitin3560/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Nitin3560/leetcode/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Nitin3560/leetcode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
