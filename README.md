@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Nitin3560/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nitin3560/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nitin3560/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0460-lfu-cache](https://github.com/Nitin3560/leetcode/tree/master/0460-lfu-cache) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Nitin3560/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Nitin3560/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Nitin3560/leetcode/tree/master/0567-permutation-in-string) |
@@ -676,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Nitin3560/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Nitin3560/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0369-plus-one-linked-list](https://github.com/Nitin3560/leetcode/tree/master/0369-plus-one-linked-list) |
+| [0460-lfu-cache](https://github.com/Nitin3560/leetcode/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/Nitin3560/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Nitin3560/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nitin3560/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -944,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0244-shortest-word-distance-ii](https://github.com/Nitin3560/leetcode/tree/master/0244-shortest-word-distance-ii) |
 | [0359-logger-rate-limiter](https://github.com/Nitin3560/leetcode/tree/master/0359-logger-rate-limiter) |
 | [0362-design-hit-counter](https://github.com/Nitin3560/leetcode/tree/master/0362-design-hit-counter) |
+| [0460-lfu-cache](https://github.com/Nitin3560/leetcode/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nitin3560/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2034-stock-price-fluctuation](https://github.com/Nitin3560/leetcode/tree/master/2034-stock-price-fluctuation) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Nitin3560/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
@@ -987,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0460-lfu-cache](https://github.com/Nitin3560/leetcode/tree/master/0460-lfu-cache) |
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/Nitin3560/leetcode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
 | [3615-convert-doubly-linked-list-to-array-ii](https://github.com/Nitin3560/leetcode/tree/master/3615-convert-doubly-linked-list-to-array-ii) |
 ## Probability and Statistics
