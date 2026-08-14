@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Nitin3560/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1268-search-suggestions-system](https://github.com/Nitin3560/leetcode/tree/master/1268-search-suggestions-system) |
 | [1306-minimum-absolute-difference](https://github.com/Nitin3560/leetcode/tree/master/1306-minimum-absolute-difference) |
+| [1406-stone-game-iii](https://github.com/Nitin3560/leetcode/tree/master/1406-stone-game-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nitin3560/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Nitin3560/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1488-avoid-flood-in-the-city](https://github.com/Nitin3560/leetcode/tree/master/1488-avoid-flood-in-the-city) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/Nitin3560/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Nitin3560/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Nitin3560/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1406-stone-game-iii](https://github.com/Nitin3560/leetcode/tree/master/1406-stone-game-iii) |
 | [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/Nitin3560/leetcode/tree/master/1896-minimum-cost-to-change-the-final-value-of-expression) |
 ## Bit Manipulation
 |  |
@@ -778,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-similar-rgb-color](https://github.com/Nitin3560/leetcode/tree/master/0800-similar-rgb-color) |
 | [0837-new-21-game](https://github.com/Nitin3560/leetcode/tree/master/0837-new-21-game) |
 | [0869-reordered-power-of-2](https://github.com/Nitin3560/leetcode/tree/master/0869-reordered-power-of-2) |
+| [1406-stone-game-iii](https://github.com/Nitin3560/leetcode/tree/master/1406-stone-game-iii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nitin3560/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nitin3560/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/Nitin3560/leetcode/tree/master/1896-minimum-cost-to-change-the-final-value-of-expression) |
@@ -1339,4 +1342,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Nitin3560/leetcode/tree/master/0127-word-ladder) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Nitin3560/leetcode/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Nitin3560/leetcode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Nitin3560/leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
