@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/Nitin3560/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0259-3sum-smaller](https://github.com/Nitin3560/leetcode/tree/master/0259-3sum-smaller) |
 | [0260-single-number-iii](https://github.com/Nitin3560/leetcode/tree/master/0260-single-number-iii) |
+| [0269-alien-dictionary](https://github.com/Nitin3560/leetcode/tree/master/0269-alien-dictionary) |
 | [0274-h-index](https://github.com/Nitin3560/leetcode/tree/master/0274-h-index) |
 | [0280-wiggle-sort](https://github.com/Nitin3560/leetcode/tree/master/0280-wiggle-sort) |
 | [0283-move-zeroes](https://github.com/Nitin3560/leetcode/tree/master/0283-move-zeroes) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0248-strobogrammatic-number-iii](https://github.com/Nitin3560/leetcode/tree/master/0248-strobogrammatic-number-iii) |
 | [0249-group-shifted-strings](https://github.com/Nitin3560/leetcode/tree/master/0249-group-shifted-strings) |
 | [0266-palindrome-permutation](https://github.com/Nitin3560/leetcode/tree/master/0266-palindrome-permutation) |
+| [0269-alien-dictionary](https://github.com/Nitin3560/leetcode/tree/master/0269-alien-dictionary) |
 | [0290-word-pattern](https://github.com/Nitin3560/leetcode/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Nitin3560/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/Nitin3560/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
@@ -1107,6 +1109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nitin3560/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nitin3560/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/Nitin3560/leetcode/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/Nitin3560/leetcode/tree/master/0269-alien-dictionary) |
 | [0285-inorder-successor-in-bst](https://github.com/Nitin3560/leetcode/tree/master/0285-inorder-successor-in-bst) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Nitin3560/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0399-evaluate-division](https://github.com/Nitin3560/leetcode/tree/master/0399-evaluate-division) |
@@ -1151,6 +1154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Nitin3560/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nitin3560/leetcode/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/Nitin3560/leetcode/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/Nitin3560/leetcode/tree/master/0269-alien-dictionary) |
 | [0322-coin-change](https://github.com/Nitin3560/leetcode/tree/master/0322-coin-change) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Nitin3560/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0399-evaluate-division](https://github.com/Nitin3560/leetcode/tree/master/0399-evaluate-division) |
@@ -1304,6 +1308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Nitin3560/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nitin3560/leetcode/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/Nitin3560/leetcode/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/Nitin3560/leetcode/tree/master/0269-alien-dictionary) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Nitin3560/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0399-evaluate-division](https://github.com/Nitin3560/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Nitin3560/leetcode/tree/master/0547-number-of-provinces) |
@@ -1321,6 +1326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Nitin3560/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nitin3560/leetcode/tree/master/0210-course-schedule-ii) |
+| [0269-alien-dictionary](https://github.com/Nitin3560/leetcode/tree/master/0269-alien-dictionary) |
 | [0802-find-eventual-safe-states](https://github.com/Nitin3560/leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Union-Find
 |  |
@@ -1391,4 +1397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Nitin3560/leetcode/tree/master/0493-reverse-pairs) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0269-alien-dictionary](https://github.com/Nitin3560/leetcode/tree/master/0269-alien-dictionary) |
 <!---LeetCode Topics End-->
