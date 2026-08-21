@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nitin3560/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1762-buildings-with-an-ocean-view](https://github.com/Nitin3560/leetcode/tree/master/1762-buildings-with-an-ocean-view) |
 | [1792-maximum-average-pass-ratio](https://github.com/Nitin3560/leetcode/tree/master/1792-maximum-average-pass-ratio) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Nitin3560/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1995-count-special-quadruplets](https://github.com/Nitin3560/leetcode/tree/master/1995-count-special-quadruplets) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Nitin3560/leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2326-spiral-matrix-iv](https://github.com/Nitin3560/leetcode/tree/master/2326-spiral-matrix-iv) |
@@ -901,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Nitin3560/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1762-buildings-with-an-ocean-view](https://github.com/Nitin3560/leetcode/tree/master/1762-buildings-with-an-ocean-view) |
 | [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/Nitin3560/leetcode/tree/master/1896-minimum-cost-to-change-the-final-value-of-expression) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Nitin3560/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nitin3560/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Nitin3560/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Memoization
@@ -957,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Nitin3560/leetcode/tree/master/0739-daily-temperatures) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Nitin3560/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1762-buildings-with-an-ocean-view](https://github.com/Nitin3560/leetcode/tree/master/1762-buildings-with-an-ocean-view) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Nitin3560/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Quickselect
 |  |
 | ------- |
