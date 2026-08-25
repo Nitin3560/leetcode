@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Nitin3560/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1406-stone-game-iii](https://github.com/Nitin3560/leetcode/tree/master/1406-stone-game-iii) |
 | [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/Nitin3560/leetcode/tree/master/1896-minimum-cost-to-change-the-final-value-of-expression) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Nitin3560/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/Nitin3560/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2938-separate-black-and-white-balls](https://github.com/Nitin3560/leetcode/tree/master/2938-separate-black-and-white-balls) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Nitin3560/leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Nitin3560/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3330-find-the-original-typed-string-i](https://github.com/Nitin3560/leetcode/tree/master/3330-find-the-original-typed-string-i) |
 ## Simulation
 |  |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/Nitin3560/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2938-separate-black-and-white-balls](https://github.com/Nitin3560/leetcode/tree/master/2938-separate-black-and-white-balls) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Nitin3560/leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Nitin3560/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
 | ------- |
@@ -654,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1792-maximum-average-pass-ratio](https://github.com/Nitin3560/leetcode/tree/master/1792-maximum-average-pass-ratio) |
 | [2542-maximum-subsequence-score](https://github.com/Nitin3560/leetcode/tree/master/2542-maximum-subsequence-score) |
 | [2938-separate-black-and-white-balls](https://github.com/Nitin3560/leetcode/tree/master/2938-separate-black-and-white-balls) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Nitin3560/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nitin3560/leetcode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 ## Backtracking
 |  |
