@@ -1,30 +1,33 @@
-class Solution(object):
-    def diffWaysToCompute(self, expression):
-        memo = {}
+class Solution:
+    def diffWaysToCompute(self, expression: str) -> List[int]:
+        results = []
 
-        def ways(expr):
-            if expr in memo:
-                return memo[expr]
-            
-            results = []
-            for i, char in enumerate(expr):
-                if char in '+-*':
-                    left_results = ways(expr[:i])
-                    right_results = ways(expr[i+1:])
-
-                    for l in left_results:
-                        for r in right_results:
-                            if char == '+':
-                                results.append(l + r)
-                            elif char == '-':
-                                results.append(l - r)
-                            elif char == '*':
-                                results.append(l * r)
-
-            if not results:
-                results.append(int(expr))
-
-            memo[expr] = results
+        if len(expression) == 0:
             return results
 
-        return ways(expression)
+        if len(expression) == 1:
+            return [int(expression)]
+
+        if len(expression) == 2 and expression[0].isdigit():
+            return [int(expression)]
+
+        for i, current_char in enumerate(expression):
+
+            if current_char.isdigit():
+                continue
+
+            left_results = self.diffWaysToCompute(expression[:i])
+            right_results = self.diffWaysToCompute(expression[i + 1 :])
+
+
+            for left_value in left_results:
+                for right_value in right_results:
+
+                    if current_char == "+":
+                        results.append(left_value + right_value)
+                    elif current_char == "-":
+                        results.append(left_value - right_value)
+                    elif current_char == "*":
+                        results.append(left_value * right_value)
+
+        return results
