@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2353-design-a-food-rating-system](https://github.com/Nitin3560/leetcode/tree/master/2353-design-a-food-rating-system) |
 | [2542-maximum-subsequence-score](https://github.com/Nitin3560/leetcode/tree/master/2542-maximum-subsequence-score) |
 | [2551-apply-operations-to-an-array](https://github.com/Nitin3560/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/Nitin3560/leetcode/tree/master/3078-match-alphanumerical-pattern-in-matrix-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nitin3560/leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/Nitin3560/leetcode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nitin3560/leetcode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2336-smallest-number-in-infinite-set](https://github.com/Nitin3560/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/Nitin3560/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2353-design-a-food-rating-system](https://github.com/Nitin3560/leetcode/tree/master/2353-design-a-food-rating-system) |
+| [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/Nitin3560/leetcode/tree/master/3078-match-alphanumerical-pattern-in-matrix-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nitin3560/leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3359-linked-list-frequency](https://github.com/Nitin3560/leetcode/tree/master/3359-linked-list-frequency) |
 | [3408-design-task-manager](https://github.com/Nitin3560/leetcode/tree/master/3408-design-task-manager) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/Nitin3560/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2938-separate-black-and-white-balls](https://github.com/Nitin3560/leetcode/tree/master/2938-separate-black-and-white-balls) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Nitin3560/leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+| [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/Nitin3560/leetcode/tree/master/3078-match-alphanumerical-pattern-in-matrix-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Nitin3560/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3330-find-the-original-typed-string-i](https://github.com/Nitin3560/leetcode/tree/master/3330-find-the-original-typed-string-i) |
 ## Simulation
@@ -882,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Nitin3560/leetcode/tree/master/1254-number-of-closed-islands) |
 | [2326-spiral-matrix-iv](https://github.com/Nitin3560/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2352-equal-row-and-column-pairs](https://github.com/Nitin3560/leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/Nitin3560/leetcode/tree/master/3078-match-alphanumerical-pattern-in-matrix-i) |
 ## String Matching
 |  |
 | ------- |
