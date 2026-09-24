@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Nitin3560/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Nitin3560/leetcode/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Nitin3560/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0294-flip-game-ii](https://github.com/Nitin3560/leetcode/tree/master/0294-flip-game-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Nitin3560/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Nitin3560/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Nitin3560/leetcode/tree/master/0312-burst-balloons) |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Nitin3560/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Nitin3560/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Nitin3560/leetcode/tree/master/0113-path-sum-ii) |
+| [0294-flip-game-ii](https://github.com/Nitin3560/leetcode/tree/master/0294-flip-game-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Nitin3560/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0489-robot-room-cleaner](https://github.com/Nitin3560/leetcode/tree/master/0489-robot-room-cleaner) |
 | [0494-target-sum](https://github.com/Nitin3560/leetcode/tree/master/0494-target-sum) |
@@ -818,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Nitin3560/leetcode/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Nitin3560/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/Nitin3560/leetcode/tree/master/0263-ugly-number) |
+| [0294-flip-game-ii](https://github.com/Nitin3560/leetcode/tree/master/0294-flip-game-ii) |
 | [0296-best-meeting-point](https://github.com/Nitin3560/leetcode/tree/master/0296-best-meeting-point) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Nitin3560/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0369-plus-one-linked-list](https://github.com/Nitin3560/leetcode/tree/master/0369-plus-one-linked-list) |
@@ -943,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Nitin3560/leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Nitin3560/leetcode/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Nitin3560/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0294-flip-game-ii](https://github.com/Nitin3560/leetcode/tree/master/0294-flip-game-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1421,10 +1425,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0294-flip-game-ii](https://github.com/Nitin3560/leetcode/tree/master/0294-flip-game-ii) |
 | [1406-stone-game-iii](https://github.com/Nitin3560/leetcode/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
+| [0294-flip-game-ii](https://github.com/Nitin3560/leetcode/tree/master/0294-flip-game-ii) |
 | [1406-stone-game-iii](https://github.com/Nitin3560/leetcode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
@@ -1454,4 +1460,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Nitin3560/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [0294-flip-game-ii](https://github.com/Nitin3560/leetcode/tree/master/0294-flip-game-ii) |
+## Impartial Game
+|  |
+| ------- |
+| [0294-flip-game-ii](https://github.com/Nitin3560/leetcode/tree/master/0294-flip-game-ii) |
 <!---LeetCode Topics End-->
