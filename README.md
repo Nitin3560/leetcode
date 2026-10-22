@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3615-convert-doubly-linked-list-to-array-ii](https://github.com/Nitin3560/leetcode/tree/master/3615-convert-doubly-linked-list-to-array-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Nitin3560/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3837-delayed-count-of-equal-elements](https://github.com/Nitin3560/leetcode/tree/master/3837-delayed-count-of-equal-elements) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Nitin3560/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
